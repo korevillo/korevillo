@@ -1,10 +1,7 @@
-### Hi there 👋
-
 <!--
 **korevillo/korevillo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -14,3 +11,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Hey, welcome to my GitHub profile! 👋 My name is Katrina (she/her) and I'm a people-driven product manager, designer, and coder.
+
+- 🔭 Projects-In-Progress: CS coursework, a Spotify playlist mass-modifier, and my personal website!
+- 🌱 Currently Learning: HTML/CSS, American Sign Language (ASL), and algorithms
+- 📫 Want to reach out? Message me on [LinkedIn!](https://linkedin.com/in/korevillo)

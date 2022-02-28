@@ -20,4 +20,4 @@ Hey, welcome to my GitHub profile! 👋 My name is Katrina (she/her) and I'm a p
 
 
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=korevillo&show_icons=true&theme=algolia" />
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=korevillo&layout=compact)](https://github.com/anuraghazra/github-readme-stats)

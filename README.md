@@ -17,7 +17,3 @@ Hey, welcome to my GitHub profile! 👋 My name is Katrina (she/her) and I'm a p
 - 🔭 Projects-In-Progress: CS coursework, a Spotify playlist mass-modifier, and my personal website!
 - 🌱 Currently Learning: HTML/CSS, American Sign Language (ASL), and algorithms
 - 📫 Want to reach out? Message me on [LinkedIn!](https://linkedin.com/in/korevillo)
-
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=korevillo&layout=compact)](https://github.com/anuraghazra/github-readme-stats)

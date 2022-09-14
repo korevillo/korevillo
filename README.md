@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 Hey, welcome to my GitHub profile! 👋 My name is Katrina (she/her) and I'm a people-driven product manager, designer, and coder.
 
 - 🔭 Projects-In-Progress: CS coursework, a Spotify playlist mass-modifier, and my personal website!
-- 🌱 Currently Learning: HTML/CSS, American Sign Language (ASL), and algorithms
+- 🌱 Currently Learning: NativeScript, American Sign Language (ASL), and computer science theory
 - 📫 Want to reach out? Message me on [LinkedIn!](https://linkedin.com/in/korevillo)

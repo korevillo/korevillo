@@ -12,8 +12,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hey, welcome to my GitHub profile! 👋 My name is Katrina (she/her) and I'm a people-driven product manager, designer, and coder.
+Hey, welcome to my GitHub profile! 👋 My name is Katrina (she/her) and I'm a people-driven product manager, designer, and programmer.
 
-- 🔭 Projects-In-Progress: CS coursework, a Spotify playlist mass-modifier, and my personal website!
-- 🌱 Currently Learning: NativeScript, American Sign Language (ASL), and computer science theory
+- 🔭 Projects-In-Progress: A heart rate visualization exercise app, a Spotify playlist mass-modifier, and a safety-minded navigation app!
+- 🌱 Currently Learning: NativeScript, American Sign Language (ASL), cs theory, and how to manage a hackathon
 - 📫 Want to reach out? Message me on [LinkedIn!](https://linkedin.com/in/korevillo)

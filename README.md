@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 
 Hey, welcome to my GitHub profile! 👋 My name is Katrina (she/her) and I'm a people-driven product manager, designer, and programmer.
 
-- 🔭 Projects-In-Progress: A heart rate visualization exercise app, a Spotify playlist mass-modifier, and a safety-minded navigation app!
-- 🌱 Currently Learning: NativeScript, American Sign Language (ASL), cs theory, and how to manage a hackathon
+- 🔭 Projects-In-Progress: Personal website!
+- 🌱 Currently Learning: React, Tagalog, and how to live life post-grad
 - 📫 Want to reach out? Message me on [LinkedIn!](https://linkedin.com/in/korevillo)

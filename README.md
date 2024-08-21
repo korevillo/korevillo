@@ -12,8 +12,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hey, welcome to my GitHub profile! 👋 My name is Katrina (she/her) and I'm a people-driven product manager, designer, and programmer.
+hi! welcome to my github!!
 
-- 🔭 Projects-In-Progress: Personal website!
-- 🌱 Currently Learning: React, Tagalog, and how to live life post-grad
-- 📫 Want to reach out? Message me on [LinkedIn!](https://linkedin.com/in/korevillo)
+i don't code for school/work anymore, so mostly just projects for funsies :-) enjoy!!

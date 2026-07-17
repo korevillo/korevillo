@@ -12,6 +12,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-hi! welcome to my github!!
-
-i don't code for school/work anymore, so mostly just projects for funsies :-) enjoy!!
+i make personality quizzes :) used to vibe code these but now just going off my previous work lol
